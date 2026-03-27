@@ -44,7 +44,7 @@
 
 
 
-1\.  Go to the \[Releases](https://github.com/atcompanyme-cmyk/Ram-Cleaner/raw/main/RamCleaner\_Free\_Edition.exe) section.
+1\.  Go to the \[Releases](https://github.com/atcompanyme-cmyk/Ram-Cleaner/blob/main/RamCleaner_Free_Edition.exe) section.
 
 2\.  Download `RamCleaner\_Free\_Edition.exe`.
 
